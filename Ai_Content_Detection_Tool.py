@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'Your API Key'
 
 def read_dataset(filename):
     with open(filename, 'r') as file:
